@@ -1,3 +1,3 @@
 # hello-world
 just another respository
-i am tanner
+i am tanner snell
